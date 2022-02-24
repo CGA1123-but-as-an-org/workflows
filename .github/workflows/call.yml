@@ -5,4 +5,4 @@ jobs:
   called:
     runs-on: ubuntu-latest
     steps:
-      - runs: echo called
+      - run: echo called
